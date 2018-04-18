@@ -1,0 +1,1 @@
+web: gunicorn ConsultBot.wsgi --log-file -
